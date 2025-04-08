@@ -5,3 +5,6 @@
 [submodule "PINstimation"]
 	path = PINstimation
 	url = https://github.com/monty-se/pinstimation
+[submodule "skellam"]
+	path = skellam
+	url = https://github.com/monty-se/skellam
